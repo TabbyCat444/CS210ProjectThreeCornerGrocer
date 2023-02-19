@@ -1,22 +1,17 @@
-#include <iostream>
-#include <ostream>
-#include <string>
-#include <vector>
-#include "MenuFunctions.h"
+#include "Functions.h"
 using namespace std;
 
-// TODO: Read in file contents to vector. Don't forget to close file.
-
-// TODO: Data File Creation
-/*
-* Create a data file, with the naming convention frequency.dat, for backing up your accumulated data. <br>
-* The frequency.dat file should include every item (represented by a word) paired with the number of times <br>
-* that item appears in the input file.
-*/
-
 int main() {
+	int menuChoice = -1;     // variable for taking user menu choice, initialized to a non-existent menu option
+	string searchItem = "none";     // variable for item search option, initialized to none which returns 0 results
+
 	system("Color 05");     // set background color to black and text color to dark purple
-	printMenu();
+	
+	dailyItemLog();     // open and read file data to map
+
+	// loop through menu until user exits
+
+	// exit condition response
 
 	return 0;
 }
