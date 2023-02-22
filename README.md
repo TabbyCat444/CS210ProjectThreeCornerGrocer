@@ -1,5 +1,39 @@
 # 7-3ProjectThreeCornerGrocery
-CS210 final project
+###### Summarize the project and what problem it was solving. <br>
+This project was to create a program for a small grocery store to use with their produce sales to assist in relocating produce for <br>
+customer convenience by popularity. The program allows them to input a file with all the produce items purchased on that day and has <br>
+menu options available for using the information. The store can search for a single item and get back a result for how many times it <br>
+was purchased on that day, they can also get a list and/or a histogram showing purchase quantities for everything from that day. Finally, <br>
+the program will back up their sales information to a data file.
+<br><br>
+
+###### What did you do particularly well? <br>
+Personally I think the map was the best part of this code, but the while loop for the menu is mostly likely what I would say that I did <br>
+particularly well, including input validation.
+<br><br>
+
+###### Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on? <br>
+I tried to get try/catch statements to work, but they kept creating an infinite loop. At some point I would like to return and possibly <br>
+switch out the while true validation loop for try catch statements with specific errors.
+<br><br>
+
+###### Which pieces of the code did you find most challenging to write, and how did you overcome this? <br>
+###### What tools or resources are you adding to your support network? <br>
+The map was the most difficult thing to write, this was my first use of one and I had no experience, not even book experience when I <br>
+started trying to implement it. Google is always my friend, and one of my favorite sites is https://geeksforgeeks.org. I find <br>
+their explanations to be the easiest for me to understand, although stack overflow is often a good source as well.
+<br><br>
+
+###### What skills from this project will be particularly transferable to other projects or course work? <br>
+This is mty third project in C++ and the practice I have receieved with the language will be helpful knowledge for future course, although <br>
+I would say that the most transferable to other projects is the ability to user pointers and maps.
+<br><br>
+
+###### How did you make this program maintainable, readable, and adaptable? <br>
+Throughout the program are comments galore, they will help me in the future noting what I was doing should I come back to make any <br>
+edits. The program currently uses standard best practices to my knowledge which helps it remain maintainable and adaptable in addition to the <br>
+spacing and previously mentioned comments for readability.
+<br><br>
 
 ### Scenario:
 You are doing a fantastic job at Chada Tech in your new role as a junior developer, and you <br>
