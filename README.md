@@ -1,38 +1,38 @@
 # 7-3ProjectThreeCornerGrocery
-##### Summarize the project and what problem it was solving. <br>
+#### Summarize the project and what problem it was solving. <br>
 This project was to create a program for a small grocery store to use with their produce sales to assist in relocating<br>
 produce for customer convenience by popularity. The program allows them to input a file with all the produce items<br>
-purchased on that day and has menu options available for using the information. The store can search for a single item<br>
-and get back a result for how many times it was purchased on that day, they can also get a list and/or a histogram<br>
-showing purchase quantities for everything from that day. Finally, the program will back up their sales information to<br>
-a data file.
+purchased on that day and has menu options available for using the information. The store can search for a single<br>
+item and get back a result for how many times it was purchased on that day, they can also get a list and/or a<br>
+histogram showing purchase quantities for everything from that day. Finally, the program will back up their sales<br>
+information to a data file.
 <br><br>
 
-##### What did you do particularly well? <br>
+#### What did you do particularly well? <br>
 Personally I think the map was the best part of this code, but the while loop for the menu is mostly likely what I would<br>
 say that I did particularly well, including input validation.
 <br><br>
 
-##### Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on? <br>
+#### Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on? <br>
 I tried to get try/catch statements to work, but they kept creating an infinite loop. At some point I would like to return<br>
 and possibly switch out the while true validation loop for try catch statements with specific errors.
 <br><br>
 
-##### Which pieces of the code did you find most challenging to write, and how did you overcome this? <br>
-##### What tools or resources are you adding to your support network? <br>
+#### Which pieces of the code did you find most challenging to write, and how did you overcome this? <br>
+#### What tools or resources are you adding to your support network? <br>
 The map was the most difficult thing to write, this was my first use of one and I had no experience, not even book<br>
 experience when I started trying to implement it. Google is always my friend, and one of my favorite sites is<br>
 https://geeksforgeeks.org. I find their explanations to be the easiest for me to understand, although stack<br>
 overflow is often a good source as well.
 <br><br>
 
-##### What skills from this project will be particularly transferable to other projects or course work? <br>
+#### What skills from this project will be particularly transferable to other projects or course work? <br>
 This is mty third project in C++ and the practice I have receieved with the language will be helpful knowledge for<br>
 future courses, although I would say that the most transferable to other projects is the ability to user pointers<br>
 and maps.
 <br><br>
 
-##### How did you make this program maintainable, readable, and adaptable? <br>
+#### How did you make this program maintainable, readable, and adaptable? <br>
 Throughout the program are comments galore, they will help me in the future noting what I was doing should I come<br>
 back to make any edits. The program currently uses standard best practices to my knowledge which helps it remain<br>
 maintainable and adaptable in addition to the spacing and previously mentioned comments for readability.
